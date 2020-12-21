@@ -10,3 +10,4 @@ Keep on coding!
 
 [![Devmount GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmount&include_all_commits=true&show_icons=true&count_private=true&title_color=234567&icon_color=234567&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide_title=true)](https://devmount.com)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmount&layout=compact&langs_count=8&title_color=234567&icon_color=234567&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide_title=true)](https://devmount.com)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=devmount&theme=nord&margin-w=35&column=6)](https://devmount.com)
