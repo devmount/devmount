@@ -6,18 +6,18 @@ I'm Andreas. I'm a freelance web developer, creator and consultant in Berlin, Ge
 - 📫 Contact me via [my website](https://devmount.de/en#contact), [Keybase](https://keybase.io/devmount) or [email](mailto:hello@devmount.de)
 - 🤓 Fun fact: My first own computer was an Acer Travelmate 220 laptop with both, a floppy and a CD drive! What was yours?
 
-I love OpenSource and contributed to **21** public repositories created myself and **7** from others here on GitHub for **7** years now. I pushed **5952** commits, opened **229** issues, submitted **157** and reviewed **127** pull requests (private contributions excluded). Up to now I received **570** stars for my work.
+I love OpenSource and contributed to **21** public repositories created myself and **7** from others here on GitHub for **7** years now. I pushed **5953** commits, opened **229** issues, submitted **157** and reviewed **127** pull requests (private contributions excluded). Up to now I received **570** stars for my work.
 
 The most used languages across my public repositories are:
 
-![Vue](https://img.shields.io/static/v1?style=flat-square&label=Vue&color=555&labelColor=%2341b883&message=30.9)
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=PHP&color=555&labelColor=%234F5D95&message=28.8)
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=Jupyter%20Notebook&color=555&labelColor=%23DA5B0B&message=14.3)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&color=555&labelColor=%233572A5&message=11)
-![TeX](https://img.shields.io/static/v1?style=flat-square&label=TeX&color=555&labelColor=%233D6117&message=4.7)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&color=555&labelColor=%23f1e05a&message=4.2)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=HTML&color=555&labelColor=%23e34c26&message=2)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=CSS&color=555&labelColor=%23563d7c&message=1.5)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&color=555&labelColor=%23ededed&message=2.3)
+![Vue](https://img.shields.io/static/v1?style=flat-square&label=Vue&color=555&labelColor=%2341b883&message=30.9%20%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=PHP&color=555&labelColor=%234F5D95&message=28.8%20%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=Jupyter%20Notebook&color=555&labelColor=%23DA5B0B&message=14.3%20%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&color=555&labelColor=%233572A5&message=11%20%25)
+![TeX](https://img.shields.io/static/v1?style=flat-square&label=TeX&color=555&labelColor=%233D6117&message=4.7%20%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&color=555&labelColor=%23f1e05a&message=4.2%20%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=HTML&color=555&labelColor=%23e34c26&message=2%20%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=CSS&color=555&labelColor=%23563d7c&message=1.5%20%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&color=555&labelColor=%23ededed&message=2.3%20%25)
 
 Happy coding!
