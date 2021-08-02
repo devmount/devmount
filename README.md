@@ -1,15 +1,22 @@
 # 👋 🌍
 
-I'm Andreas. I'm a freelance web developer, creator and consultant in Berlin, Germany. I love God and I do all my work unto him. I create and maintain websites, web apps and extensions for various Content Management Systems and also do some machine learning and NLP stuff. I publish articles and tutorials about web development and related topics on [DEV](https://dev.to/devmount), [Medium](https://medium.com/@devmount) and [Twitter](https://twitter.com/devmount). If you like my work, just drop me a 'thank you' or [sponsor me](https://github.com/sponsors/devmount).
+I'm Andreas. I'm a freelance web developer, creator and consultant in Berlin, Germany. I love God and I do all my work unto him. I create and maintain websites, web apps and extensions for various Content Management Systems and also do some machine learning and NLP stuff. I occasionally publish articles and tutorials about web development and related topics on [DEV](https://dev.to/devmount), [Medium](https://medium.com/@devmount) and [Twitter](https://twitter.com/devmount). If you like my work, just drop me a 'thank you' or [sponsor me](https://github.com/sponsors/devmount).
 
 - 💬 Ask me about programming (Javascript, Python, PHP, CSS, VueJS), balancing work and family or freelancing
 - 📫 Contact me via [my website](https://devmount.de/en#contact), [Keybase](https://keybase.io/devmount) or [email](mailto:hello@devmount.de)
 - 🤓 Fun fact: My first own computer was an Acer Travelmate 220 laptop with both, a floppy and a CD drive! What was yours?
 
-Keep on coding!
+I love OpenSource and contributed to **7** public repositories here on GitHub for **7** years. I pushed **5949** commits, opened **229** issues, submitted **157** and reviewed **{{ CODE_REVIEWS }}** pull requests (private contributions excluded). I received **570** stars for my work.
 
+Top 8 most used languages across my public repositories:
 
-[![Devmount GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmount&include_all_commits=true&show_icons=true&count_private=true&title_color=234567&icon_color=234567&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide_title=true)](https://devmount.com)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmount&layout=compact&langs_count=8&title_color=234567&icon_color=234567&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide_title=true)](https://devmount.com)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=devmount&rank=SECRET,SSS,SS,S,AAA&theme=nord&no-bg=true&no-frame=true&margin-w=35&column=6)](https://devmount.com)
+![Vue](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2341b883&message=Vue%EF%B8%B130.9%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B128.8%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B114.3%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B111%25)
+![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B14.7%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B14.2%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.9%25)
 
+Happy coding!
