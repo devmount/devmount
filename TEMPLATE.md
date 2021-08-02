@@ -6,11 +6,11 @@ I'm Andreas. I'm a freelance web developer, creator and consultant in Berlin, Ge
 - 📫 Contact me via [my website](https://devmount.de/en#contact), [Keybase](https://keybase.io/devmount) or [email](mailto:hello@devmount.de)
 - 🤓 Fun fact: My first own computer was an Acer Travelmate 220 laptop with both, a floppy and a CD drive! What was yours?
 
-I love OpenSource and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories here on GitHub for **{{ ACCOUNT_AGE }}** years. I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** and reviewed **{{ CODE_REVIEWS }}** pull requests (private contributions excluded). I received **{{ STARS }}** stars for my work.
+I love OpenSource and contributed to **{{ REPOSITORIES }}** public repositories created myself and **{{ REPOSITORIES_CONTRIBUTED_TO }}** from others here on GitHub for **{{ ACCOUNT_AGE }}** years now. I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** and reviewed **{{ CODE_REVIEWS }}** pull requests (private contributions excluded). Up to now I received **{{ STARS }}** stars for my work.
 
-Top 8 most used languages across my public repositories:
+The most used languages across my public repositories are:
 
-{{ LANGUAGE_TEMPLATE_START }}
+{{ LANGUAGE_TEMPLATE_START:max=9 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
