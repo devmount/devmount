@@ -6,11 +6,11 @@ I'm Andreas. I'm a freelance web developer, creator and consultant in Berlin, Ge
 - 📫 Contact me via [my website](https://devmount.de/en#contact), [Keybase](https://keybase.io/devmount) or [email](mailto:hello@devmount.de)
 - 🤓 Fun fact: My first own computer was an Acer Travelmate 220 laptop with both, a floppy and a CD drive! What was yours?
 
-I love Open Source Software and joined GitHub **8** years ago. Since then I pushed **8431** commits, opened **260** issues, submitted **223** and reviewed **204** pull requests, received **640** stars across **22** personal projects and contributed to **7** public repositories.
+I love Open Source Software and joined GitHub **8** years ago. Since then I pushed **8436** commits, opened **261** issues, submitted **225** and reviewed **204** pull requests, received **640** stars across **22** personal projects and contributed to **7** public repositories.
 
 The most used languages across my projects are:
 
-![Vue](https://img.shields.io/static/v1?style=flat-square&label=Vue&color=555&labelColor=%2341b883&message=33.4%25)
+![Vue](https://img.shields.io/static/v1?style=flat-square&label=Vue&color=555&labelColor=%2341b883&message=33.5%25)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=PHP&color=555&labelColor=%234F5D95&message=27.3%25)
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=Jupyter%20Notebook&color=555&labelColor=%23DA5B0B&message=13.5%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&color=555&labelColor=%233572A5&message=10.4%25)
