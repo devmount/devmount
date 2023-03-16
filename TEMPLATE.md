@@ -15,3 +15,5 @@ The most used languages across my projects are:
 {{ LANGUAGE_TEMPLATE_END }}
 
 Happy coding!
+
+![GitHub Streak](https://streak-stats.demolab.com?user=devmount&theme=transparent&hide_border=true&fire=26A641&sideNums=26A641&currStreakNum=26A641&sideLabels=006D32&currStreakLabel=006D32&ring=0E4429&stroke=161B22&dates=629488)
