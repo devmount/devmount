@@ -6,7 +6,7 @@ I'm Andreas. I'm a freelance web developer, creator and consultant in Berlin, Ge
 - 📫 Contact me via [my website](https://devmount.de/en#contact), [Keybase](https://keybase.io/devmount) or [email](mailto:hello@devmount.de)
 - 🤓 Fun fact: My first own computer was an Acer Travelmate 220 laptop with both, a floppy and a CD drive! What was yours?
 
-I love Open Source Software and joined GitHub **9** years ago. Since then I pushed **7499** commits, opened **292** issues, submitted **290** and reviewed **274** pull requests, received **780** stars across **24** personal projects and contributed to **35** public repositories.
+I love Open Source Software and joined GitHub **9** years ago. Since then I pushed **7500** commits, opened **292** issues, submitted **290** and reviewed **274** pull requests, received **781** stars across **24** personal projects and contributed to **35** public repositories.
 
 The most used languages across my projects are:
 
