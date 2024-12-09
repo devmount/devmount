@@ -1,12 +1,12 @@
 # 👋🌍
 
-I'm Andreas. I'm a freelance web developer, creator and consultant in Berlin, Germany. I love God and I do all my work unto him. I create and maintain websites, build application based on web technologies and also do some machine learning and NLP stuff. I occasionally publish articles and tutorials about web development and related topics on [DEV](https://dev.to/devmount), [Medium](https://medium.com/@devmount) and [Twitter](https://twitter.com/devmount). If you like my work, just drop me a 'thank you' or [sponsor me](https://github.com/sponsors/devmount).
+I'm Andreas. I'm a freelance web developer, creator and consultant in Berlin, Germany. I love God and I do all my work unto him. I build applications that run in your browser and on your web server. I publish articles and tutorials about web technologies and related topics on [DEV](https://dev.to/devmount), [Medium](https://medium.com/@devmount) and [Mastodon](https://mstdn.io/@devmount). If you like my work, just drop me a 'thank you' or [sponsor me](https://github.com/sponsors/devmount).
 
-- 💬 Ask me about programming (JavaScript, Python, PHP, CSS, Vue.js), balancing work and family or freelancing
-- 📫 Contact me via [my website](https://devmount.de/en#contact), [Keybase](https://keybase.io/devmount) or [email](mailto:hello@devmount.de)
+- 💬 Ask me about programming (JS, TS, Python, PHP, CSS, Vue), balancing work and family or freelancing
+- 📫 Check [my website](https://devmount.com) or [email me](mailto:hello@devmount.com)
 - 🤓 Fun fact: My first own computer was an Acer Travelmate 220 laptop with both, a floppy and a CD drive! What was yours?
 
-I love Open Source Software and joined GitHub **11** years ago. Since then I pushed **10018** commits, opened **414** issues, submitted **749** and reviewed **621** pull requests, received **1044** stars across **58** personal projects and contributed to **11** public repositories.
+I love Open Source Software and joined GitHub **11** years ago. Since then I pushed **10024** commits, opened **414** issues, submitted **751** and reviewed **622** pull requests, received **1047** stars across **58** personal projects and contributed to **11** public repositories.
 
 The most used languages across my projects are:
 
