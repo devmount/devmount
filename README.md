@@ -6,19 +6,19 @@ I'm Andreas. I'm a freelance web developer, creator and consultant in Berlin, Ge
 - 📫 Check [my website](https://devmount.com) or [email me](mailto:hello@devmount.com)
 - 🤓 Fun fact: My first own computer was an Acer Travelmate 220 laptop with both, a floppy and a CD drive! What was yours?
 
-I love Open Source Software and joined GitHub **11** years ago. Since then I pushed **10661** commits, opened **451** issues, submitted **869** and reviewed **816** pull requests, received **1170** stars across **59** personal projects and contributed to **14** public repositories.
+I love Open Source Software and joined GitHub **11** years ago. Since then I pushed **10672** commits, opened **454** issues, submitted **871** and reviewed **817** pull requests, received **1170** stars across **59** personal projects and contributed to **14** public repositories.
 
 The most used languages across my projects are:
 
-![C++](https://img.shields.io/static/v1?style=flat-square&label=C%2B%2B&color=555&labelColor=%23f34b7d&message=62.2%25)
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=PHP&color=555&labelColor=%234F5D95&message=12.5%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=C%2B%2B&color=555&labelColor=%23f34b7d&message=62.4%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=PHP&color=555&labelColor=%234F5D95&message=12.6%25)
 ![Vue](https://img.shields.io/static/v1?style=flat-square&label=Vue&color=555&labelColor=%2341b883&message=4.7%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=CSS&color=555&labelColor=%23663399&message=4%25)
 ![Blade](https://img.shields.io/static/v1?style=flat-square&label=Blade&color=555&labelColor=%23f7523f&message=2.4%25)
 ![TeX](https://img.shields.io/static/v1?style=flat-square&label=TeX&color=555&labelColor=%233D6117&message=2.3%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=HTML&color=555&labelColor=%23e34c26&message=2.1%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&color=555&labelColor=%233572A5&message=1.9%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&color=555&labelColor=%23ededed&message=7.6%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&color=555&labelColor=%23ededed&message=7.2%25)
 
 Happy coding!
 
