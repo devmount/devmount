@@ -6,19 +6,19 @@ I'm Andreas. I'm a freelance web developer, creator and consultant in Berlin, Ge
 - 📫 Check [my website](https://devmount.com) or [email me](mailto:hello@devmount.com)
 - 🤓 Fun fact: My first own computer was an Acer Travelmate 220 laptop with both, a floppy and a CD drive! What was yours?
 
-I love Open Source Software and joined GitHub **12** years ago. Since then I pushed **11704** commits, opened **514** issues, submitted **1070** and reviewed **1063** pull requests, received **1201** stars across **57** personal projects and contributed to **16** public repositories.
+I love Open Source Software and joined GitHub **12** years ago. Since then I pushed **11716** commits, opened **514** issues, submitted **1072** and reviewed **1066** pull requests, received **1201** stars across **57** personal projects and contributed to **16** public repositories.
 
 The most used languages across my projects are:
 
-![C++](https://img.shields.io/static/v1?style=flat-square&label=C%2B%2B&color=555&labelColor=%23f34b7d&message=62.4%25)
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=PHP&color=555&labelColor=%234F5D95&message=12%25)
-![Vue](https://img.shields.io/static/v1?style=flat-square&label=Vue&color=555&labelColor=%2341b883&message=5%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=CSS&color=555&labelColor=%23663399&message=4%25)
-![Blade](https://img.shields.io/static/v1?style=flat-square&label=Blade&color=555&labelColor=%23f7523f&message=2.4%25)
-![TeX](https://img.shields.io/static/v1?style=flat-square&label=TeX&color=555&labelColor=%233D6117&message=2.3%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=HTML&color=555&labelColor=%23e34c26&message=2.1%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&color=555&labelColor=%233572A5&message=1.9%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&color=555&labelColor=%23ededed&message=7.4%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=C%2B%2B&color=555&labelColor=%23f34b7d&message=58.8%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=PHP&color=555&labelColor=%234F5D95&message=17.1%25)
+![Vue](https://img.shields.io/static/v1?style=flat-square&label=Vue&color=555&labelColor=%2341b883&message=4.7%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=CSS&color=555&labelColor=%23663399&message=3.8%25)
+![Blade](https://img.shields.io/static/v1?style=flat-square&label=Blade&color=555&labelColor=%23f7523f&message=2.3%25)
+![TeX](https://img.shields.io/static/v1?style=flat-square&label=TeX&color=555&labelColor=%233D6117&message=2.2%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=HTML&color=555&labelColor=%23e34c26&message=2%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&color=555&labelColor=%233572A5&message=1.8%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&color=555&labelColor=%23ededed&message=6.9%25)
 
 Happy coding!
 
