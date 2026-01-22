@@ -21,5 +21,3 @@ The most used languages across my projects are:
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&color=555&labelColor=%23ededed&message=6.9%25)
 
 Happy coding!
-
-![GitHub Streak](https://streak-stats.demolab.com?user=devmount&theme=transparent&hide_border=true&fire=26A641&sideNums=26A641&currStreakNum=26A641&sideLabels=006D32&currStreakLabel=006D32&ring=0E4429&stroke=161B22&dates=629488)
