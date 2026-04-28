@@ -6,6 +6,6 @@ I'm Andreas. I'm a freelance web developer, creator and consultant in Berlin, Ge
 - 📫 Check [my website](https://devmount.com) or [email me](mailto:hello@devmount.com)
 - 🤓 Fun fact: My first own computer was an Acer Travelmate 220 laptop with both, a floppy and a CD drive!
 
-I love Open Source Software and joined GitHub **12** years ago. Since then I pushed **12214** commits, opened **553** issues, submitted **1160** and reviewed **1236** pull requests, received **1222** stars across **61** personal projects and contributed to **14** public repositories.
+I love Open Source Software and joined GitHub **12** years ago. Since then I pushed **12215** commits, opened **553** issues, submitted **1160** and reviewed **1236** pull requests, received **1222** stars across **61** personal projects and contributed to **14** public repositories.
 
 Happy coding!
